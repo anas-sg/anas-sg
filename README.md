@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anas-sg
-- 👀 I’m interested in coding in C, Python and PHP and working on IoT/embedded systems projects
+- 👋 Hi, I’m Muhammed Anas
+- 👀 I’m interested in coding in C, Python and PHP and working on IoT/embedded systems/FPGA projects
 - 🌱 I’m currently learning GUI programming using Python Tkinter
-- 💞️ I’m looking to collaborate on anything! Telegram bot, web design, web programming, etc!
+- 💞️ I’m looking to collaborate on anything! Telegram bot, web design, web programming, etc...
 - 📫 You can reach me at anas.m6@gmail.com or @anas_z15 on Telegram and Instagram
 
 <!---
